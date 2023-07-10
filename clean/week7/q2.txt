@@ -1,0 +1,13 @@
+What's the following in decimal (assuming we're using 16 bits 2's complement)
+
+iii)
+	0x1234
+
+extra)
+	0xffd6
+
+iv)
+	0xffff
+
+v)
+	0x8000

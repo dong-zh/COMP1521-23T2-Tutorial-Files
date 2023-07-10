@@ -1,0 +1,13 @@
+What's the following in 16 bits 2's complement
+
+i)
+	1
+
+iii)
+	1000
+
+vi)
+	-5
+
+vii)
+	-100
